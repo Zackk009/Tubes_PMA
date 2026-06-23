@@ -3,7 +3,7 @@ Electrical Fault Detection & Classification
 Tugas Besar Pengganti Ujian Akhir Semester (UAS) Genap 2025/2026  
 Mata Kuliah: ABK4ABB3 - PEMBELAJARAN MESIN DAN APLIKASI  
 
-Kelompok: [Isi Nama Kelompok, misal: Kelompok 5]
+ANGGOTA
 - Ahmad Zacki Habibi, [1102220076]
 - Brahmandityo Imam Prasetyo, [1102223277]
 - M. Isaac Umar Siddiq, [1102223208]
