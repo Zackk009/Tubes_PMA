@@ -4,7 +4,7 @@
 
 Dosen dapat menguji endpoint sistem kami menggunakan perintah cURL berikut di terminalCommand Prompt
 
-curl -X POST httpsa35eaf1cf068685c6a.gradio.liveapipredict ^
+curl -X POST "https://b61ce46ef513b5089d.gradio.live/" ^
 -H Content-Type applicationjson ^
 -d {data [0, 0, 0, 0.4, -0.2, -0.2]}
 
