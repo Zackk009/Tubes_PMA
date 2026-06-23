@@ -1,0 +1,12 @@
+# Skrip Pengujian Endpoint API (cURL)
+# Tugas Besar Machine Learning
+# Opsi Deployment Web App (Gradio)
+
+Dosen dapat menguji endpoint sistem kami menggunakan perintah cURL berikut di terminalCommand Prompt
+
+curl -X POST httpsa35eaf1cf068685c6a.gradio.liveapipredict ^
+-H Content-Type applicationjson ^
+-d {data [0, 0, 0, 0.4, -0.2, -0.2]}
+
+Catatan 
+- Angka di dalam data adalah contoh nilai input untuk Ia, Ib, Ic, Va, Vb, Vc.
