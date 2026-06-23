@@ -14,7 +14,7 @@ ANGGOTA
 ## 🌐 1. Tautan Sistem Deployment
 Sistem Machine Learning kami telah di-deploy menggunakan Gradio (Opsi B: Web App Interaktif) dan dapat diakses secara langsung untuk pengujian melalui tautan berikut:
 
-👉 **[KLIK DI SINI UNTUK AKSES WEB APP](https://3ee72a77b4ab478a45.gradio.live/)** 👈
+👉 **[KLIK DI SINI UNTUK AKSES WEB APP]((https://b61ce46ef513b5089d.gradio.live/))** 👈
 
 *(Catatan Pengujian: Dosen penguji dapat menggunakan web UI di atas, atau menguji endpoint API melalui Command Prompt menggunakan skrip cURL yang telah kami sediakan di dalam file `skrip_curl.txt` pada repositori ini).*
 
