@@ -14,7 +14,7 @@ ANGGOTA
 ## 🌐 1. Tautan Sistem Deployment
 Sistem Machine Learning kami telah di-deploy menggunakan Gradio (Opsi B: Web App Interaktif) dan dapat diakses secara langsung untuk pengujian melalui tautan berikut:
 
-👉 **[KLIK DI SINI UNTUK AKSES WEB APP](https://d342ea33fe143ae6fd.gradio.live/)** 👈
+👉 **[KLIK DI SINI UNTUK AKSES WEB APP](https://huggingface.co/spaces/Zackih/deteksi-gangguan-listrik)** 👈
 
 *(Catatan Pengujian: Dosen penguji dapat menggunakan web UI di atas, atau menguji endpoint API melalui Command Prompt menggunakan skrip cURL yang telah kami sediakan di dalam file `skrip_curl.txt` pada repositori ini).*
 
